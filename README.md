@@ -1,2 +1,2 @@
-# Certificates
+# Security Certificates
 Training
